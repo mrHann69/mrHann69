@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 [![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhann69&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHann69&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHann69&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
