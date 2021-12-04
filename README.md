@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 * I'm a Student at Universidad del Valle 🔭 🇨🇴 🎓
 * I'm Studying a Technology on Systems Information 🖥️🖱️
 
-[![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhann69)](https://github.com/anuraghazra/github-readme-stats)
-![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhann69&show_icons=true&theme=merko)
+
+[![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhann69&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHann69&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
