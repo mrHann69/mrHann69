@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 * I'm Studying a Technology on Systems Information 🖥️🖱️
 [![MrHann's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrHann&show_icons=true&hide_border=true&theme=buefy&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHann&layout=compact&hide_border=true&hide=java,racket)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHann&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
