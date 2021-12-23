@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Mat from Colombia 🇨🇴 👋 
 * I'm a Student at Universidad del Valle 🔭 🇨🇴 🎓
-* I'm Studying a Technology on Systems Information 🖥️🖱️
+* I'm Studying a Systems Information Technology 🖥️🖱️
 
 
 [![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhann69&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
