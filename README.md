@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Mat from Colombia 🇨🇴 👋 
+### Hi there, I'm Matheo from Colombia 🇨🇴 👋 
 * I'm a Student at Universidad del Valle 🔭 🇨🇴 🎓
 
 [![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhann69&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
